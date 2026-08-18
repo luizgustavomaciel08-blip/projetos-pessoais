@@ -45,8 +45,10 @@ main{
 }
 
 main strong{
-    background-image: linear-gradient(to right, #4C7A75, #EDF1F5 );
-    
+     background-color: #D9E4E2;
+    padding: 2px 8px;
+    border-radius: 4px;
+    display: inline-block;
 
 }
 main > h2{
